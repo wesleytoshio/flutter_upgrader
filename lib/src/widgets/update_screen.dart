@@ -85,7 +85,7 @@ class UpdateScreen extends StatelessWidget {
                 const SizedBox(height: 20),
                 Text(
                   title,
-                  style: theme.textTheme.headlineLarge,
+                  style: theme.textTheme.headlineMedium?.copyWith(height: 1.15),
                 ),
                 const SizedBox(height: 12),
                 Text(
