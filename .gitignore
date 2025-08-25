@@ -17,3 +17,6 @@ coverage
 .flutter-plugins
 example/test/driver_test/screenshots
 .qodo
+
+# FVM Version Cache
+.fvm/

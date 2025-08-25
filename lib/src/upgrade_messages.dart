@@ -855,121 +855,122 @@ class UpgraderMessages {
     String message;
     switch (languageCode) {
       case 'ar':
-        message = 'هل تريد تحديث التطبيق؟';
+        message = 'قم بتحديث تطبيقك إلى أحدث إصدار';
         break;
       case 'bn':
-        message = 'আপডেট অ্যাপ্লিকেশন?';
+        message = 'আপনার অ্যাপ্লিকেশনটি সর্বশেষ সংস্করণে আপডেট করুন';
         break;
       case 'da':
-        message = 'Opdater App?';
+        message = 'Opdater din applikation til den nyeste version';
         break;
       case 'el':
-        message = 'Ενημέρωση εφαρμογής;';
+        message = 'Ενημερώστε την εφαρμογή σας στην πιο πρόσφατη έκδοση';
         break;
       case 'es':
-        message = '¿Actualizar la aplicación?';
+        message = 'Actualiza tu aplicación a la última versión';
         break;
       case 'fa':
-        message = 'نسخه‌ی جدید';
+        message = 'برنامه خود را به آخرین نسخه به‌روز کنید';
         break;
       case 'fil':
-        message = 'I-update ang app?';
+        message = 'I-update ang iyong aplikasyon sa pinakabagong bersyon';
         break;
       case 'fr':
-        message = 'Mettre à jour l\'application ?';
+        message = 'Mettez à jour votre application vers la dernière version';
         break;
       case 'de':
-        message = 'App aktualisieren?';
+        message = 'Aktualisieren Sie Ihre Anwendung auf die neueste Version';
         break;
       case 'he':
-        message = 'לעדכן יישומון?';
+        message = 'עדכן את היישום שלך לגרסה האחרונה';
         break;
       case 'hi':
-        message = 'ऐप का नया संस्करण स्थापित करें?';
+        message = 'अपने ऐप को नवीनतम संस्करण में अपडेट करें';
         break;
       case 'ht':
-        message = 'Mete app la ajou?';
+        message = 'Mete aplikasyon ou ajou ak dènye vèsyon an';
         break;
       case 'hu':
-        message = 'FrissÍtés?';
+        message = 'Frissítse az alkalmazást a legújabb verzióra';
         break;
       case 'id':
-        message = 'Perbarui Aplikasi?';
+        message = 'Perbarui aplikasi Anda ke versi terbaru';
         break;
       case 'it':
-        message = 'Aggiornare l\'applicazione?';
+        message = 'Aggiorna la tua applicazione all\'ultima versione';
         break;
       case 'ja':
-        message = 'アプリのアップデート';
+        message = 'アプリを最新バージョンに更新してください';
         break;
       case 'kk':
-        message = 'Жаңарту керек пе?';
+        message = 'Қолданбаны соңғы нұсқаға жаңартыңыз';
         break;
       case 'km':
-        message = 'អាប់ដេតកម្មវិធីទេ?';
+        message = 'ធ្វើបច្ចុប្បន្នភាពកម្មវិធីរបស់អ្នកទៅកំណែថ្មីបំផុត';
         break;
       case 'ko':
-        message = '앱을 업데이트하시겠습니까?';
+        message = '애플리케이션을 최신 버전으로 업데이트하세요';
         break;
       case 'ku':
-        message = 'نوێکردنەوەی ئەپ؟';
+        message = 'نوێکردنەوەی ئەپەکەت بۆ دوایین وەشان';
         break;
       case 'lt':
-        message = 'Atnaujinti programą?';
+        message = 'Atnaujinkite savo programą į naujausią versiją';
         break;
       case 'mn':
-        message = 'Та шинэчлэлт хийх үү?';
+        message = 'Аппаа хамгийн сүүлийн хувилбар руу шинэчилнэ үү';
         break;
       case 'nb':
-        message = 'Oppdater app?';
+        message = 'Oppdater applikasjonen din til nyeste versjon';
         break;
       case 'nl':
-        message = 'App updaten?';
+        message = 'Werk uw applicatie bij naar de nieuwste versie';
         break;
       case 'pt':
-        message = 'Atualizar aplicação?';
+        message = 'Atualize sua aplicação para a versão mais recente';
         break;
       case 'pl':
-        message = 'Czy zaktualizować aplikację?';
+        message = 'Zaktualizuj swoją aplikację do najnowszej wersji';
         break;
       case 'ps':
-        message = 'نوې نسخه';
+        message = 'خپل اپلیکیشن وروستي نسخې ته تازه کړئ';
         break;
       case 'ro':
-        message = 'Actualizați aplicația?';
+        message = 'Actualizați aplicația la cea mai recentă versiune';
         break;
       case 'ru':
-        message = 'Обновить?';
+        message = 'Обновите ваше приложение до последней версии';
         break;
       case 'sv':
-        message = 'Uppdatera App?';
+        message = 'Uppdatera din applikation till den senaste versionen';
         break;
       case 'ta':
-        message = 'செயலியை புதுப்பிக்கவா?';
+        message = 'உங்கள் செயலியை சமீபத்திய பதிப்புக்கு புதுப்பிக்கவும்';
         break;
       case 'te':
-        message = 'యాప్‌ని అప్‌డేట్‌ చేయాలా?';
+        message = 'మీ యాప్‌ని తాజా వెర్షన్‌కు అప్‌డేట్ చేయండి';
         break;
       case 'tr':
-        message = 'Uygulamayı Güncelle?';
+        message = 'Uygulamanızı en son sürüme güncelleyin';
         break;
       case 'uk':
-        message = 'Оновити?';
+        message = 'Оновіть свій додаток до останньої версії';
         break;
       case 'uz':
-        message = "Ilova yangilansinmi?";
+        message = 'Ilovangizni eng so‘nggi versiyaga yangilang';
         break;
       case 'vi':
-        message = 'Cập nhật ứng dụng?';
+        message = 'Cập nhật ứng dụng của bạn lên phiên bản mới nhất';
         break;
       case 'zh':
-        message = '更新应用程序？';
+        message = '将您的应用程序更新到最新版本';
         break;
       case 'en':
       default:
-        message = 'Update App?';
+        message = 'Update your application to the latest version';
         break;
     }
+
     return message;
   }
 }
